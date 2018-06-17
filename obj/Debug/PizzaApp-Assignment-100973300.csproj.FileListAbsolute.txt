@@ -1,0 +1,18 @@
+C:\Users\negin_000\Desktop\c# advance\assignment\PizzaApp-Assignment-100973300\PizzaApp-Assignment-100973300\bin\Debug\PizzaApp-Assignment-100973300.exe.config
+C:\Users\negin_000\Desktop\c# advance\assignment\PizzaApp-Assignment-100973300\PizzaApp-Assignment-100973300\bin\Debug\PizzaApp-Assignment-100973300.exe
+C:\Users\negin_000\Desktop\c# advance\assignment\PizzaApp-Assignment-100973300\PizzaApp-Assignment-100973300\bin\Debug\PizzaApp-Assignment-100973300.pdb
+C:\Users\negin_000\Desktop\c# advance\assignment\PizzaApp-Assignment-100973300\PizzaApp-Assignment-100973300\obj\Debug\PizzaApp-Assignment-100973300.csprojResolveAssemblyReference.cache
+C:\Users\negin_000\Desktop\c# advance\assignment\PizzaApp-Assignment-100973300\PizzaApp-Assignment-100973300\obj\Debug\PizzaApp_Assignment_100973300.PizzaApp.resources
+C:\Users\negin_000\Desktop\c# advance\assignment\PizzaApp-Assignment-100973300\PizzaApp-Assignment-100973300\obj\Debug\PizzaApp_Assignment_100973300.Properties.Resources.resources
+C:\Users\negin_000\Desktop\c# advance\assignment\PizzaApp-Assignment-100973300\PizzaApp-Assignment-100973300\obj\Debug\PizzaApp-Assignment-100973300.csproj.GenerateResource.Cache
+C:\Users\negin_000\Desktop\c# advance\assignment\PizzaApp-Assignment-100973300\PizzaApp-Assignment-100973300\obj\Debug\PizzaApp-Assignment-100973300.exe
+C:\Users\negin_000\Desktop\c# advance\assignment\PizzaApp-Assignment-100973300\PizzaApp-Assignment-100973300\obj\Debug\PizzaApp-Assignment-100973300.pdb
+C:\negin college\Computer\semester-3\c# advance\assignment\PizzaApp-Assignment-100973300\PizzaApp-Assignment-100973300\bin\Debug\PizzaApp-Assignment-100973300.exe.config
+C:\negin college\Computer\semester-3\c# advance\assignment\PizzaApp-Assignment-100973300\PizzaApp-Assignment-100973300\obj\Debug\PizzaApp-Assignment-100973300.exe
+C:\negin college\Computer\semester-3\c# advance\assignment\PizzaApp-Assignment-100973300\PizzaApp-Assignment-100973300\obj\Debug\PizzaApp-Assignment-100973300.pdb
+C:\negin college\Computer\semester-3\c# advance\assignment\PizzaApp-Assignment-100973300\PizzaApp-Assignment-100973300\bin\Debug\PizzaApp-Assignment-100973300.exe
+C:\negin college\Computer\semester-3\c# advance\assignment\PizzaApp-Assignment-100973300\PizzaApp-Assignment-100973300\bin\Debug\PizzaApp-Assignment-100973300.pdb
+C:\negin college\Computer\semester-3\c# advance\assignment\PizzaApp-Assignment-100973300\PizzaApp-Assignment-100973300\obj\Debug\PizzaApp-Assignment-100973300.csprojResolveAssemblyReference.cache
+C:\negin college\Computer\semester-3\c# advance\assignment\PizzaApp-Assignment-100973300\PizzaApp-Assignment-100973300\obj\Debug\PizzaApp_Assignment_100973300.PizzaApp.resources
+C:\negin college\Computer\semester-3\c# advance\assignment\PizzaApp-Assignment-100973300\PizzaApp-Assignment-100973300\obj\Debug\PizzaApp_Assignment_100973300.Properties.Resources.resources
+C:\negin college\Computer\semester-3\c# advance\assignment\PizzaApp-Assignment-100973300\PizzaApp-Assignment-100973300\obj\Debug\PizzaApp-Assignment-100973300.csproj.GenerateResource.Cache
