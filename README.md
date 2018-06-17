@@ -1,4 +1,4 @@
-# Object Oriented Programming Using Csharp Assignmet One
+# Object Oriented Programming Using C# Assignmet One
 
 Create an application that will save and display customers orders and information
 
