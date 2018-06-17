@@ -1,7 +1,8 @@
 # Object Oriented Programming Using Csharp Assignmet One
 
+Create an application that will save and display customers orders and information
 
-## Obejctive 
+### Obejctive 
 
 - Use C# and Visual Studio to create **Windows-based applications**
 
